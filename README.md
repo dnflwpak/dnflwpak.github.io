@@ -22,9 +22,25 @@ MySQL, MsSQL, Oracle, MongoDB, Elasticsearch, Memcached, Redis
 Laravel, Codeigniter, Vue.js, Jquery
 
 ## 경력
->
-### 이스턴테크놀로지 (2007.05 - 2008.05)
-** 웹사이트 개발, 유지보수 **
+
+#### (주)요술지팡이 (2008.06 - 2009.07)
+* 보안솔루션 설치 및 웹사이트 제작 유지보수
+* 사용기술 : asp, jsp, php, javascript, mysql, oracle, mssql
+
+##### 진행한 프로젝트
+> 새롬에듀
+> 유니와이즈
+
+#### (주)이스턴테크 (2007.05 - 2008.05)
+* 웹사이트 제작 및 유지보수
+* 사용기술 : asp, jsp, php, javascript, mysql
+
+##### 진행한 프로젝트
+> ledexpo
+> visionvalue
+> 새마을중앙회
+
+
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
