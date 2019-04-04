@@ -5,7 +5,11 @@ You can use the [editor on GitHub](https://github.com/dnflwpak/dnflwpak.github.i
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ## WonKab Kim
-### Developer
+
+> Developer
+> +82 010-9999-7105
+> dnflwpak@gmail.com
+
 
 #### +82 010-9999-7105
 #### dnflwpak@gmail.com
