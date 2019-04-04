@@ -4,8 +4,11 @@ You can use the [editor on GitHub](https://github.com/dnflwpak/dnflwpak.github.i
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-## WonKab Kim #developer
-### Markdown
+## WonKab Kim
+### Developer
+
+#### +82 010-9999-7105
+#### dnflwpak@gmail.com
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
