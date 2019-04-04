@@ -18,7 +18,7 @@ Laravel, Codeigniter, Vue.js, Jquery
 
 
 ### (주)트러스트어스 (2015.10 - )
-###### 
+###### 시니어개발자
 * 아키텍쳐 설계, 웹 개발 및 유지보수
 * 사용기술 : php, javascript, jquery, mysql, redis, codeigniter, laravel, vue.js, elasticsearch, mongoDB, python
 
@@ -31,9 +31,9 @@ Laravel, Codeigniter, Vue.js, Jquery
 > * 네이버 예약 연동
 
 
+
 ### (주)티몬 (2011.11 - 2015.09)
 ###### 대리
-### (주)티몬 (2011.11 - 2015.09)
 * 웹 개발 및 유지보수
 * 사용기술 : php, javascript, jquery, mysql, redis, couchbase, codeigniter
 
@@ -43,6 +43,7 @@ Laravel, Codeigniter, Vue.js, Jquery
 > * 제주도닷컴 연동
 > * 원마운트 연동
 > * 멀티비즈(숙박, 컬쳐) 자동 환불
+
 
 
 ### 오케이아웃도어닷컴 (2009.12 - 2011.09)
@@ -56,6 +57,7 @@ Laravel, Codeigniter, Vue.js, Jquery
 > * 각종 이벤트 (가위바위보 이벤트, 3+1 이벤트, 베스트브랜드)
 
 
+
 ### (주)요술지팡이 (2008.06 - 2009.07)
 ###### 사원
 * 보안솔루션 설치 및 웹 개발 및 유지보수
@@ -65,6 +67,7 @@ Laravel, Codeigniter, Vue.js, Jquery
 > * 새롬에듀
 > * 유니와이즈
 > * 한성학원
+
 
 
 ### (주)이스턴테크 (2007.05 - 2008.05)
