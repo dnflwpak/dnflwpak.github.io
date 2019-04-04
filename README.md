@@ -3,16 +3,13 @@
 You can use the [editor on GitHub](https://github.com/dnflwpak/dnflwpak.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# 이력서
 
 ## WonKab Kim
 
-Developer
-- [ ] +82 10-9999-7105
-- [ ] dnflwpak@gmail.com
-
-
-#### +82 010-9999-7105
-#### dnflwpak@gmail.com
+* Developer
+* +82 010-9999-71052
+* dnflwpak@gmail.com
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
