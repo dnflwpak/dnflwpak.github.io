@@ -11,6 +11,21 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 * +82 010-9999-71052
 * dnflwpak@gmail.com
 
+## 보유기술
+### Language
+php, javascript, scss, html, python
+
+### Database
+MySQL, MsSQL, Oracle, MongoDB, Elasticsearch, Memcached, Redis
+
+### Framework
+Laravel, Codeigniter, Vue.js, Jquery
+
+## 경력
+>
+### 이스턴테크놀로지 (2007.05 - 2008.05)
+** 웹사이트 개발, 유지보수 **
+
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
