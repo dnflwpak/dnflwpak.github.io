@@ -6,10 +6,10 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ## WonKab Kim
 
-> * item 1
-Developer
-> +82 010-9999-7105
-> dnflwpak@gmail.com
+> 
+* Developer
+* - [ ] +82 10-9999-7105
+* - [ ] dnflwpak@gmail.com
 
 
 #### +82 010-9999-7105
