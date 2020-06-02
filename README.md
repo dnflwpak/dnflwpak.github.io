@@ -1,23 +1,27 @@
 ## WonKab Kim
 
+* Birthday 1984.06.15
 * Developer
 * +82 010-9999-71052
 * dnflwpak@gmail.com
 
 ## 보유기술
 ### Language
-php, javascript, scss, html, python
+php, javascript, scss, html, python, java
 
 ### Database
-MySQL, MsSQL, Oracle, MongoDB, Elasticsearch, Memcached, Redis
+MySQL, MsSQL, Oracle, MongoDB
 
 ### Framework
 Laravel, Codeigniter, Vue.js, Jquery
 
+### Etc
+Elasticsearch, Memcached, Redis
+
 ## 경력
 
 
-### (주)트러스트어스 (2015.10 - )
+### (주)포잉 (2015.10 - )
 ###### 시니어개발자
 * 아키텍쳐 설계, 웹 개발 및 유지보수
 * 사용기술 : php, javascript, jquery, mysql, redis, codeigniter, laravel, vue.js, elasticsearch, mongoDB, python
@@ -29,6 +33,7 @@ Laravel, Codeigniter, Vue.js, Jquery
 > * 포잉 스토어
 > * 스토어 보증금 예약
 > * 네이버 예약 연동
+> * 포잉 3.0
 
 
 
